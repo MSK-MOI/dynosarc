@@ -1,0 +1,31 @@
+# Directories #
+###############
+__pycache__/
+.ipynb_checkpoints/
+data/
+EMD_transport_maps/
+DSRCT*/
+OST*/
+*HPRD*/
+*hprd*/
+*_cluster_*/
+*_Tuniform/
+
+# macOS Files #
+###############
+.DS_Store
+
+# File extensions #
+###################
+*~
+*#
+*.py[cod] # matches .pyc, .pyo, .pyd files
+
+# Files #
+#########
+*CCrecord*.csv
+*EWS_hprd_weights.csv
+*wasserstein_distances.csv
+*graph_distances.csv
+*curvature.svg
+*curvature_variance.svg
